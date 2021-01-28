@@ -7,5 +7,5 @@ printf " %s  %s" "$icon" "$volume%"
 
 
 case $BLOCK_BUTTON in
-     1) echo "Please work =( "
+    1) echo "Please work =( ";;
 esac

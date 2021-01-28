@@ -5,7 +5,7 @@ static const Block blocks[] = {
 	{"", "dwmcpu.sh", 30, 		0}, 
 	{"", "dwmvolume.sh", 0, 		1}, 
 	{"", "dwmweather.sh", 18000, 		0}, 
-	{"", "dwmclock.sh",	5,		0},
+	{"", "dwmclock.sh",	60,		0},
 };
 
 //sets delimeter between status commands. NULL character ('\0') means no delimeter.
